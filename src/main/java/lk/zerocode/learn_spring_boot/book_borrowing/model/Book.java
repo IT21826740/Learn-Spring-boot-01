@@ -19,5 +19,4 @@ public class Book {
     @ManyToOne
     private Author author;
 
-
 }
